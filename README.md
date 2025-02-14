@@ -1,1 +1,4 @@
 # DiseasePrediction
+This project focuses on predicting disease outbreaks with a particular emphasis on the novel coronavirus (COVID-19) as a case study. We utilized time-series analysis techniques such as ARIMA, Prophet, and LSTM, alongside classification methods including decision trees, random forests, and neural networks to forecast and categorize outbreak risks.
+Developed predictive models to classify countries into low, moderate, and high-risk categories based on their healthcare infrastructure and socio-economic metrics, using machine learning algorithms. The methodologies are adaptable to other infectious diseases, making this a versatile tool in global health crisis management.
+The models were able to effectively predict and classify the risk levels of different countries, assisting in strategic planning for healthcare resource allocation.
